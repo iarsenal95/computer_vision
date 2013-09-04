@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/main.m
+END
+vp2rfeatures.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/auto_pop_up/!svn/ver/10/trunk/MATLAB/vp2rfeatures.m
+END
+sp2regions.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/sp2regions.m
+END
+get_labels_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/get_labels_test.m
+END
+get_labels.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/auto_pop_up/!svn/ver/13/trunk/MATLAB/get_labels.m
+END
+get_region_labels.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/get_region_labels.m
+END
+get_spmeans.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/auto_pop_up/!svn/ver/10/trunk/MATLAB/get_spmeans.m
+END
+get_kde_likelihood.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/auto_pop_up/!svn/ver/10/trunk/MATLAB/get_kde_likelihood.m
+END
+find_long_edges.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/find_long_edges.m
+END
+gt_label.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/gt_label.m
+END
+write_vrlm_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/write_vrlm_model.m
+END
+get_spdata.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/get_spdata.m
+END
+train_density.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/train_density.m
+END
+lines2vpfeature.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/auto_pop_up/!svn/ver/10/trunk/MATLAB/lines2vpfeature.m
+END
+estimate_vp.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/auto_pop_up/!svn/ver/10/trunk/MATLAB/estimate_vp.m
+END
+get_region_features.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/get_region_features.m
+END
+train_classifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/train_classifier.m
+END
+process_segments.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/auto_pop_up/!svn/ver/10/trunk/MATLAB/process_segments.m
+END
+estimate_horizon.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/estimate_horizon.m
+END
+analysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/analysis.m
+END
+test_classifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/auto_pop_up/!svn/ver/15/trunk/MATLAB/test_classifier.m
+END
