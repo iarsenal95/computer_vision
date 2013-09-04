@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/auto_pop_up/!svn/ver/9/trunk/segment
+END
+pnmfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/pnmfile.h
+END
+convolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/convolve.h
+END
+imconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/imconv.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/misc.h
+END
+disjoint-set.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/disjoint-set.h
+END
+segment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/auto_pop_up/!svn/ver/9/trunk/segment/segment.cpp
+END
+segment-graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/segment-graph.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/image.h
+END
+segment-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/auto_pop_up/!svn/ver/6/trunk/segment/segment-image.h
+END
+segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/auto_pop_up/!svn/ver/6/trunk/segment/segment.h
+END
+imutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/imutil.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/auto_pop_up/!svn/ver/4/trunk/segment/filter.h
+END
